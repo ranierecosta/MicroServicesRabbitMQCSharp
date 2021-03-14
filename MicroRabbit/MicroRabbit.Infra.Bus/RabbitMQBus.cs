@@ -121,8 +121,7 @@ namespace MicroRabbit.Infra.Bus
 			}
 			catch (Exception ex)
 			{
-
-				throw;
+				throw ex;
 			}
 		}
 
