@@ -361,3 +361,17 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.MicroRabbit.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\raniere.costa.SP01\RiderProjects\MicroServicesRabbitMQCSharp\MicroRabbit\.idea\.idea.MicroRabbit\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
