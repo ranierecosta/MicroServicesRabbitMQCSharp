@@ -366,6 +366,7 @@ FodyWeavers.xsd
 /shelf/
 /workspace.xml
 # Rider ignored files
+.idea/
 /.idea.MicroRabbit.iml
 /modules.xml
 /contentModel.xml
