@@ -4,4 +4,15 @@
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
 
+<<<<<<< HEAD
+=======
+    <ItemGroup>
+      <Folder Include="CommandHandlers" />
+      <Folder Include="Commands" />
+      <Folder Include="EventHandlers" />
+      <Folder Include="Events" />
+      <Folder Include="Interfaces" />
+    </ItemGroup>
+
+>>>>>>> 010f101495ae8764e28d06263c2d94425f9be350
 </Project>

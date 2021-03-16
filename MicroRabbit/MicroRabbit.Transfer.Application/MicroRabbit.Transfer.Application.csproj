@@ -4,4 +4,13 @@
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
 
+<<<<<<< HEAD
+=======
+    <ItemGroup>
+      <Folder Include="Interfaces" />
+      <Folder Include="Models" />
+      <Folder Include="Services" />
+    </ItemGroup>
+
+>>>>>>> 010f101495ae8764e28d06263c2d94425f9be350
 </Project>
