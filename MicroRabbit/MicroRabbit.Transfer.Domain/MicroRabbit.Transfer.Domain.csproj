@@ -4,8 +4,6 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
 
-<<<<<<< HEAD
-=======
     <ItemGroup>
       <Folder Include="CommandHandlers" />
       <Folder Include="Commands" />
@@ -15,5 +13,4 @@
       <ProjectReference Include="..\MicroRabbit.Domain.Core\MicroRabbit.Domain.Core.csproj" />
     </ItemGroup>
 
->>>>>>> 010f101495ae8764e28d06263c2d94425f9be350
 </Project>
