@@ -5,8 +5,15 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Context" />
       <Folder Include="Repository" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.4" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\MicroRabbit.Transfer.Domain\MicroRabbit.Transfer.Domain.csproj" />
     </ItemGroup>
 
 </Project>
